@@ -6,7 +6,7 @@ internal class Program
         int num1;
         int num2;
         double result;
-
+//we are the the best
         Console.WriteLine("What is your name ?");
         string? username = Console.ReadLine();
         Console.WriteLine("You have a nice name "+username+" "+ "welcome to c sharp program");
